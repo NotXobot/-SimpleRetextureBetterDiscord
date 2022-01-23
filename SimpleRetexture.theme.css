@@ -26,6 +26,6 @@
 --rs-offline-color: #ffffff;
 --rs-streaming-color: #9d20ff;
 --rs-invisible-color: #747f8d;
---rs-phone-visible: block;
+--rs-phone-visible: none;
 --customFont: 'Poppins';
 }
